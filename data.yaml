@@ -1,0 +1,7 @@
+path: ./identify_car/data/Public_CCTV
+train: Training/images
+val: Validation/images
+test: Test/images
+
+nc: 5
+names: ['Car', 'Bus', 'Truck', 'Moto', 'Person']

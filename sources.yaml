@@ -1,0 +1,42 @@
+### DO NOT MODIFY BELOW ###
+WEIGHT: best57_latest
+MULTIGPU_ENABLED: False
+OPENCV_THREADS: 6
+SCALE: 1
+PREGRAB: 1
+### DO NOT MODIFY ABOVE ###
+
+DRAW_ENABLED: False # Show detected image
+SAVE_ENABLED: False # Save detected image
+
+SOURCES:
+  SRC0: https://gimpo.cctvstream.net:8443/s038/playlist.m3u8
+  SRC1: https://gimpo.cctvstream.net:8443/s021/playlist.m3u8
+  # SRC2: https://gimpo.cctvstream.net:8443/s050/playlist.m3u8
+  # SRC3: https://gimpo.cctvstream.net:8443/s055/playlist.m3u8
+  # SRC4: https://gimpo.cctvstream.net:8443/s041/playlist.m3u8
+  # SRC5: https://gimpo.cctvstream.net:8443/s010/playlist.m3u8
+  # SRC6: https://gimpo.cctvstream.net:8443/s010/playlist.m3u8
+  # SRC7: https://gimpo.cctvstream.net:8443/s010/playlist.m3u8
+  # SRC8: https://gimpo.cctvstream.net:8443/s010/playlist.m3u8
+  # SRC9: https://gimpo.cctvstream.net:8443/s010/playlist.m3u8
+  # SRC10: https://gimpo.cctvstream.net:8443/s010/playlist.m3u8
+  # SRC11: https://gimpo.cctvstream.net:8443/s010/playlist.m3u8
+  # SRC12: https://gimpo.cctvstream.net:8443/s010/playlist.m3u8
+  # SRC13: https://gimpo.cctvstream.net:8443/s010/playlist.m3u8
+  # SRC14: https://gimpo.cctvstream.net:8443/s010/playlist.m3u8
+  # SRC15: https://gimpo.cctvstream.net:8443/s010/playlist.m3u8
+  # SRC16: https://gimpo.cctvstream.net:8443/s010/playlist.m3u8
+  # SRC17: https://gimpo.cctvstream.net:8443/s010/playlist.m3u8
+  # SRC18: https://gimpo.cctvstream.net:8443/s010/playlist.m3u8
+  # SRC19: https://gimpo.cctvstream.net:8443/s010/playlist.m3u8
+  # SRC20: https://gimpo.cctvstream.net:8443/s010/playlist.m3u8
+  # SRC21: https://gimpo.cctvstream.net:8443/s010/playlist.m3u8
+  # SRC22: https://gimpo.cctvstream.net:8443/s010/playlist.m3u8
+  # SRC23: https://gimpo.cctvstream.net:8443/s010/playlist.m3u8
+  # SRC24: https://gimpo.cctvstream.net:8443/s010/playlist.m3u8
+  # SRC25: https://gimpo.cctvstream.net:8443/s010/playlist.m3u8
+  # SRC26: https://gimpo.cctvstream.net:8443/s010/playlist.m3u8
+  # SRC27: https://gimpo.cctvstream.net:8443/s010/playlist.m3u8
+  # SRC28: https://gimpo.cctvstream.net:8443/s010/playlist.m3u8
+  # SRC29: https://gimpo.cctvstream.net:8443/s010/playlist.m3u8
