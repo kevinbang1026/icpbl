@@ -10,7 +10,7 @@ author: 방태빈 2019041130
 
 ## Download resources (required)
 From link below 
-> [Link](https://hyu-my.sharepoint.com/:f:/g/personal/kevinbang_hanyang_ac_kr/EiENKOHPHgxLgMky5xF8IaUBBKDzy3FyT-EM6ZhdTpr7vg?e=Sgne8x)
+> [Link](https://drive.google.com/file/d/1XWWPSESDYGYmO33sOmyma0-AjD2TTUg1/view?usp=share_link)
 <br>
 
 ### Load Weight (required)
