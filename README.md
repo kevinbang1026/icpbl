@@ -5,7 +5,7 @@ author: 방태빈 2019041130
 <br>
 
 ## Install requirments
-```$ pip install -r requirments.txt```   
+```$ pip install -r requirements.txt```   
 <br>
 
 ## Download resources (required)
