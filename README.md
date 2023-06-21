@@ -22,3 +22,10 @@ Parts of the original training data.
 Augmented data is not included.      
 <br>
 *Other training data is lost.*
+
+## Run
+
+#### Configure ```sources.yaml``` first.
+You can add or remove camera.
+
+### ```$ python Tracker.py```
